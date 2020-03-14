@@ -1,0 +1,78 @@
+.헤더 {
+  border-bottom: 10px solid greenyellow;
+  color: gold;
+  height: auto;
+  text-align: center;
+  background-color: gray;
+}
+.name {
+  background-color: slateblue;
+  font-size: 55px;
+}
+.photo {
+  border: 4px dotted gold;
+  width: 190px;
+  display: block;
+  margin: 0px auto;
+}
+main {
+  text-align: center;
+  background-color: gray;
+}
+.e-mail {
+  color: gold;
+  font-size: 35px;
+  background-color: slateblue;
+}
+.e-mail a {
+  color: gold;
+}
+.자기소개 {
+  color: greenyellow;
+  background-color: black;
+  font-size: 30px;
+}
+.커리어 {
+  color: gold;
+  font-size: 35px;
+  background-color: slateblue;
+}
+.커리어 ul {
+  color: greenyellow;
+  font-size: 30px;
+  background-color: black;
+}
+.sns {
+  color: gold;
+  font-size: 35px;
+  background-color: slateblue;
+}
+.sns_account {
+  background-color: black;
+  color: greenyellow;
+}
+.sns_account a {
+  color: greenyellow;
+  background-color: black;
+  font-size: 30px;
+}
+
+.comment {
+  color: greenyellow;
+  font-size: 30px;
+  background-color: black;
+}
+.comment input {
+  color: gold;
+  font-size: 30px;
+}
+head {
+  font-family: "Nanum Brush Script", cursive;
+}
+body {
+  font-family: "Nanum Brush Script", cursive;
+  margin: 0em;
+}
+body input {
+  font-family: "Nanum Brush Script", cursive;
+}

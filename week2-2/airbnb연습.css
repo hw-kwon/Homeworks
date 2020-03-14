@@ -1,0 +1,12 @@
+.bg1 {
+  background-image: url("https://img.theculturetrip.com/1024x574/smart/wp-content/uploads/2017/10/field-in-ukraine.jpg");
+  background-repeat: no-repeat;
+  margin: auto;
+  width: 100%;
+  height: 400px;
+  max-width: 1024px;
+}
+.bg1 i {
+  font-size: 2rem;
+  padding: 1rem;
+}

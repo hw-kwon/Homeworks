@@ -1,0 +1,39 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Playfair Display", serif;
+  padding-top: 3rem;
+}
+
+.card1 {
+  border: 4px solid #edb30796;
+}
+
+.card2 {
+  border: 4px solid #edb30796;
+}
+.card3 {
+  border: 4px solid #edb30796;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+.jumbotron {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  background-color: #edb30796;
+}
+.navbar {
+  font-family: "Playfair Display", serif;
+}
+.jumbotron img {
+  width: 200px;
+  height: 100px;
+  margin-left: 3rem;
+  border-radius: 10%;
+}
+.jumbotron p {
+  font-size: 25px;
+}

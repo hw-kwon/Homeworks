@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Word Count</title>
+    <link rel="stylesheet" href="{% static 'css/home.css' %}" />
+  </head>
+  <body>
+    <h1>단어 수 세기</h1>
+    <form action="{% url 'result' %}" method="get">
+      <textarea name="fulltext" cols="60" rows="10"></textarea>
+      <input type="submit" value="count" />
+    </form>
+  </body>
+</html>
